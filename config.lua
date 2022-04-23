@@ -19,7 +19,7 @@ Apartments.Locations = {
             created = false
         }
     },
-    ["apartment2"] = {
+    --[[["apartment2"] = {
         name = "apartment2",
         label = "Morningwood Blvd",
         coords = {
@@ -86,5 +86,5 @@ Apartments.Locations = {
             distance = 2.0,
             created = false
         }
-    },
+    },]]
 }
