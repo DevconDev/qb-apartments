@@ -4,17 +4,68 @@ Apartments.SpawnOffset = 30
 Apartments.Locations = {
     ["apartment1"] = {
         name = "apartment1",
-        label = "South Rockford Drive",
+        label = "Alta Street 3",
         coords = {
-            enter = vector4(-667.02, -1105.24, 14.63, 242.32),
+            enter = vector4(-268.59, -962.17, 31.22, 116.35),
         },
         polyzoneBoxData = {
-            heading = 245,
-            minZ = 13.5,
-            maxZ = 16.0,
+            heading = 297,
+            minZ = 29.02,
+            maxZ = 33.02,
             debug = false,
-            length = 1,
-            width = 3,
+            length = 0.5,
+            width = 2,
+            distance = 2.0,
+            created = false
+        }
+    },
+    ["apartment2"] = {
+        name = "apartment2",
+        label = "Alta Street 3",
+        coords = {
+            enter = vector4(-270.77, -957.64, 31.22, 117.33),
+        },
+        polyzoneBoxData = {
+            heading = 297,
+            minZ = 29.02,
+            maxZ = 33.02,
+            debug = false,
+            length = 0.5,
+            width = 2,
+            distance = 2.0,
+            created = false
+        }
+    },
+    ["apartment3"] = {
+        name = "apartment3",
+        label = "Alta Street 3",
+        coords = {
+            enter = vector4(-266.27, -955.61, 31.22, 297.48),
+        },
+        polyzoneBoxData = {
+            heading = 297,
+            minZ = 29.02,
+            maxZ = 33.02,
+            debug = false,
+            length = 0.5,
+            width = 2,
+            distance = 2.0,
+            created = false
+        }
+    },
+    ["apartment4"] = {
+        name = "apartment4",
+        label = "Alta Street 3",
+        coords = {
+            enter = vector4(-264.16, -960.05, 31.22, 295.01),
+        },
+        polyzoneBoxData = {
+            heading = 297,
+            minZ = 29.02,
+            maxZ = 33.02,
+            debug = false,
+            length = 0.5,
+            width = 2,
             distance = 2.0,
             created = false
         }
