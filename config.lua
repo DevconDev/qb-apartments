@@ -70,6 +70,23 @@ Apartments.Locations = {
             created = false
         }
     },
+    ["richman"] = {
+        name = "richman",
+        label = "The Richman",
+        coords = {
+            enter = vector4(-1274.31, 315.27, 65.51, 147.54),
+        },
+        polyzoneBoxData = {
+            heading = 62,
+            minZ = 63.11,
+            maxZ = 67.11,
+            debug = false,
+            length = 1.0,
+            width = 2.6,
+            distance = 2.0,
+            created = false
+        }
+    },
     --[[["apartment2"] = {
         name = "apartment2",
         label = "Morningwood Blvd",
